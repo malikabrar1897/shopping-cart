@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+/* Flex */
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 10px auto;
+    gap: 10px;
+}
+
+/* Grid */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
+    gap: 15px;
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid black;
+    padding: 10px;
+}
