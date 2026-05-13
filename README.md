@@ -6,6 +6,9 @@
 - Catalog Page
 - Cart Page
 - Responsive Design using Flexbox and Grid
+- Bootstrap Responsive Layout
+
+---
 
 ## Output Screenshots
 
@@ -15,6 +18,14 @@
 ### Screenshot 2
 ![Output1](output1.png)
 
+---
+
+## GitHub Repository Link
+
+https://github.com/malikabrar1897/wad-external-shopping-cart
+
+---
+
 ## GitHub Pages Link
 
-https://malikabrar1897.github.io/shopping-cart/
+https://malikabrar1897.github.io/wad-external-shopping-cart/
