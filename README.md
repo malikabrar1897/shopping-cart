@@ -22,10 +22,10 @@
 
 ## GitHub Repository Link
 
-https://github.com/malikabrar1897/wad-external-shopping-cart
+https://github.com/malikabrar1897/shopping-cart
 
 ---
 
 ## GitHub Pages Link
 
-https://malikabrar1897.github.io/wad-external-shopping-cart/
+https://malikabrar1897.github.io/shopping-cart/
